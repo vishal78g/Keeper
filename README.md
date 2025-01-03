@@ -1,3 +1,2 @@
 "# Keeper" 
-Deployed wibsite at - 
-https://keeper-app.netlify.app/
+Deployed wibsite at - https://kepper-lite.netlify.app/
